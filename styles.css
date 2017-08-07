@@ -1,0 +1,7 @@
+body{margin: 0;padding: 10px; font-size: 14px;}
+ul{list-style-type: none;padding: 0;margin: 0;}
+.card{border:1px solid #ccc;width:320px;padding: 10px; margin:0 auto;box-sizing: border-box;}
+.card img{width:300px;margin-bottom: 10px;}
+p.interesting-fact{font-style: italic;}
+.card-info{border:1px solid #ccc;padding: 10px;}
+.card-info ul li span{font-weight: bold;}
